@@ -56,21 +56,14 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		FA0CF02F25BA058400FED5BB /* ViewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				FA164C3025CB0FF7001EE87B /* MainViewController.swift */,
-				FA0CF03E25BA8DB600FED5BB /* ToDoListViewController.swift */,
-				FA0CF04125BA8DCC00FED5BB /* ProfileViewController.swift */,
-				FA164C3625CB2687001EE87B /* MainCollectionViewController.swift */,
-			);
-			path = ViewControllers;
-			sourceTree = "<group>";
-		};
 		FA0CF03425BA05BB00FED5BB /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				FA0CF03925BA077D00FED5BB /* MainTabBarController.swift */,
+				FA164C3025CB0FF7001EE87B /* MainViewController.swift */,
+				FA0CF03E25BA8DB600FED5BB /* ToDoListViewController.swift */,
+				FA0CF04125BA8DCC00FED5BB /* ProfileViewController.swift */,
+				FA164C3625CB2687001EE87B /* MainCollectionViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -95,7 +88,6 @@
 			isa = PBXGroup;
 			children = (
 				FA0CF03425BA05BB00FED5BB /* Controllers */,
-				FA0CF02F25BA058400FED5BB /* ViewControllers */,
 				FA0CF02925B9E90D00FED5BB /* View */,
 				FA0E31FB25A3C08F0096CF96 /* AppDelegate.swift */,
 				FA0E31FD25A3C08F0096CF96 /* SceneDelegate.swift */,
