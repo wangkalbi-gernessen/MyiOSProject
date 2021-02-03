@@ -56,7 +56,7 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		FA0CF03425BA05BB00FED5BB /* Controllers */ = {
+		FA0CF03425BA05BB00FED5BB /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 				FA0CF03925BA077D00FED5BB /* MainTabBarController.swift */,
@@ -65,7 +65,7 @@
 				FA0CF04125BA8DCC00FED5BB /* ProfileViewController.swift */,
 				FA164C3625CB2687001EE87B /* MainCollectionViewController.swift */,
 			);
-			path = Controllers;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 		FA0E31EF25A3C08E0096CF96 = {
@@ -87,7 +87,7 @@
 		FA0E31FA25A3C08F0096CF96 /* MyiOSProject */ = {
 			isa = PBXGroup;
 			children = (
-				FA0CF03425BA05BB00FED5BB /* Controllers */,
+				FA0CF03425BA05BB00FED5BB /* Controller */,
 				FA0CF02925B9E90D00FED5BB /* View */,
 				FA0E31FB25A3C08F0096CF96 /* AppDelegate.swift */,
 				FA0E31FD25A3C08F0096CF96 /* SceneDelegate.swift */,
